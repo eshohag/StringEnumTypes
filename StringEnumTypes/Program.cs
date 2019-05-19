@@ -10,6 +10,8 @@ namespace StringEnumTypes
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(RulesEnum.RULE01);
+            Console.ReadKey();
         }
     }
 }
